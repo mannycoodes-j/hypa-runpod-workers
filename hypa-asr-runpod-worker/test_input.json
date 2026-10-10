@@ -1,0 +1,12 @@
+{
+  "input": {
+    "audio": "BASE64_AUDIO_HERE",
+    "audio_type": "base64",
+    "mime_type": "audio/wav",
+    "temperature": 0,
+    "top_p": 0.5,
+    "top_k": 1,
+    "max_tokens": 400,
+    "return_timestamps": false
+  }
+}
