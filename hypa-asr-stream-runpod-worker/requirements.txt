@@ -3,5 +3,5 @@ fastapi>=0.115.0
 huggingface-hub>=0.24.0
 numpy>=1.26.0
 safetensors>=0.4.0
-transformers>=4.57.1
+transformers==4.57.1
 uvicorn[standard]>=0.30.0
